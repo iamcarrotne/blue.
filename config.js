@@ -11,5 +11,5 @@ const CONFIG = {
     reply: 'Cảm ơn vì đã đến bên em ^^ Love u babi moahh',
     mess: 'Bất ngờ hum hihi :>',
     messDesc: 'Hẹn anh iu hết dịch đi chơi nhee ^^',
-    btnAccept: 'oki lun nhoo',
+    btnAccept: 'oki lun nè',
     messLink: 'https://www.facebook.com/gianghuong0309}
